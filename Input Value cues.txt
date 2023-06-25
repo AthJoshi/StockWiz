@@ -1,0 +1,10 @@
+Spike in graph-
+12000, 11.1
+12000, 10.5
+
+Flat graph-
+666, 9.2
+
+Slight variation-
+300000, 10.20
+
